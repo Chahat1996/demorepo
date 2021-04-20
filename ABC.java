@@ -4,7 +4,7 @@ public class ABC
 		{
 			for(int i=0;i<=10;i++)
 			{
-			System.out.println("Hello Everybody");
+			System.out.println("Hello Everybody Good Afternoon");
 			}
 		}
 }
